@@ -1,0 +1,1 @@
+export {CreateBankDetailsDto, getBankDetailsDto, UpdateBankDetailsDto, bankDetailsByIdDto} from './bank_details.dto';
